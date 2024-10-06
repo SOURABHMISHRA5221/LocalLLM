@@ -48,7 +48,7 @@ Ensure you have the following installed before running the notebook:
    - Visit your Ngrok dashboard.
    - Navigate to the Ngrok Agents section.
    - Find the Public URL of your running LLama3 model. This URL allows external access to your locally hosted model.
-   - 
+   
 ## USAGE
 
 - Once the notebook is run, the LLama3 model will be running on your local machine.
