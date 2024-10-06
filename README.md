@@ -23,8 +23,8 @@ Ensure you have the following installed before running the notebook:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repository-url.git
-   cd your-repository
+   git clone https://github.com/SOURABHMISHRA5221/LocalLLM.git
+   cd LocalLLM
 
 
 2. **Creating .env file**:
