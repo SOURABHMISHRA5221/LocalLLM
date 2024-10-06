@@ -16,8 +16,6 @@ Ensure you have the following installed before running the notebook:
 
 - Python 3.x
 - Jupyter Notebook or JupyterLab
-- [Ngrok](https://ngrok.com/download)
-- [Ollama](https://ollama.com)
 - An Ngrok Auth Token (available after signing up on [Ngrok's website](https://ngrok.com/))
 
 ## Installation and Setup
